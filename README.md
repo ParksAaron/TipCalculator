@@ -29,7 +29,7 @@ If I added loading animations as well as the other optional features, the functi
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/VbN3g1C' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='tipcalculatordemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
