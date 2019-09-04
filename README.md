@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 - [x] List anything else that you can get done to improve the app functionality!
 If I added loading animations as well as the other optional features, the functionality would be greatly improved.
 
--[]Party size option to divide tip between multiple people and give amount per person
+-[ ]Party size option to divide tip between multiple people and give amount per person
 
 ## Video Walkthrough
 
